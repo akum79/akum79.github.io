@@ -1,46 +1,46 @@
-Abhishek Kumar
-akum79@gmail.com | +36-300829915
-Linkedin - https://www.linkedin.com/in/akumar25/
-============
-
+<p align="center">
+   Abhishek Kumar <br> 
+   akum79@gmail.com | +36-300829915   <br> 
+   Linkedin - https://www.linkedin.com/in/akumar25/
+</p>
 
 Professional Summary 
 ---------
 
-: IT professional with extensive experience in Business Analysis/Test/Java/Cloud/DevOps related technologies.
-*22+ years of experience in designing, developing, maintaining, and documenting software and its processes.*
-*Worked in telecom, banking, and financial areas.*
-*Worked on multiple technologies like Java, cloud, and DevOps.*
-*Passionate about high quality delivery and customer satisfaction.*
+IT professional with extensive experience in Business Analysis/Test/Java/Cloud/DevOps related technologies.  
+22+ years of experience in designing, developing, maintaining, and documenting software and its processes.  
+Worked in telecom, banking, and financial areas.  
+Worked on multiple technologies like Java, cloud, and DevOps.  
+Passionate about high quality delivery and customer satisfaction.  
 
 Skills 
 ---------
-Requirement Gathering | Coding and Development | Testing
-Agile Methodology | Project Management |Release Management
-Techno-Functional
+Requirement Gathering | Coding and Development | Testing  
+Agile Methodology | Project Management |Release Management  
+Techno-Functional  
 
 Technical Skills 
 ---------
-Java | Groovy | REST | SOAP | Spring
-Python | Flask | Django | NumPy
-Selenium | QTP | Junit | TestNG | Mockito
-SQL | Data modelling | Oracle | Sybase | MySQL | DB2 | PostgreSQL
-JBOSS | Tomcat | WebSphere | WebLogic
-IBM MQ | ActiveMQ | TIBCO | Kafka
-Ant | Maven | Gradle | Bazel
-Jenkin | Artifactory | Gerrit | Git | GitLab | SVN | Jira | Confluence | Wiki
-Docker | Kubernetes | Helm | Lens 
-AWS | Azure | GCP | OpenStack
-Bash | Terraform | Ansible | Prometheus | FluxCD | ELK
-DevOps | DevSecOps | GitOps | Infrastructure-As-Code
+Java | Groovy | REST | SOAP | Spring  
+Python | Flask | Django | NumPy  
+Selenium | QTP | Junit | TestNG | Mockito  
+SQL | Data modelling | Oracle | Sybase | MySQL | DB2 | PostgreSQL  
+JBOSS | Tomcat | WebSphere | WebLogic  
+IBM MQ | ActiveMQ | TIBCO | Kafka  
+Ant | Maven | Gradle | Bazel  
+Jenkin | Artifactory | Gerrit | Git | GitLab | SVN | Jira | Confluence | Wiki  
+Docker | Kubernetes | Helm | Lens   
+AWS | Azure | GCP | OpenStack  
+Bash | Terraform | Ansible | Prometheus | FluxCD | ELK  
+DevOps | DevSecOps | GitOps | Infrastructure-As-Code  
 
 Qualification and Certificates 
 ---------
-Bachelor of Engineering in Computer Science (1997 – 2001)
-Docker/Kubernetes/Helm: Certificate URL
-Kubernetes troubleshooting: Certificate URL
-Microsoft Certified: Azure Fundamentals: Certification number - I505-8473
-Microsoft Certified: Azure Data Fundamentals: Certification number - I528-7658
+Bachelor of Engineering in Computer Science (1997 – 2001)  
+Docker/Kubernetes/Helm: Certificate URL  
+Kubernetes troubleshooting: Certificate URL  
+Microsoft Certified: Azure Fundamentals: Certification number - I505-8473  
+Microsoft Certified: Azure Data Fundamentals: Certification number - I528-7658  
 
 
 
