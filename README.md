@@ -43,85 +43,41 @@ Microsoft Certified: Azure Fundamentals: Certification number - I505-8473
 Microsoft Certified: Azure Data Fundamentals: Certification number - I528-7658  
 
 
+**Work Experience  
+Ericsson | HUNGARY | From 05/2021 to till Date.**
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+**Project name and Role** – EO-CM/EO-cCM | Senior Tester/Test automation developer
+EO-CM manages hybrid infrastructure (mainly OpenStack, AWS, Azure based VMs). It also manages telecom software deployment (i.e. different kinds of network functions) on hybrid infrastructure. In other words, EO-CM tool manages machines (physical or Virtual) and manages software deployed on those machines
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+**Contribution**
+* Complete QA life cycle management - planning and execution of functional, non-functional tests.
+* Test strategy, test plan and testcase creation, implementation, and execution.
+* Validate the IT functional designs and business requirements for in-scope release components.
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+**Technology & tools used in this project:**
+Java, PostgreSQL, AWS, Azure, Docker, Kubernetes, Helm, Python, Groovy
 
-    *Minor: Awesomeology*
+**Work Experience
+TCS | EUROPE | From 05/2010 to 05/2021**
 
-Experience
-----------
+**Client, Location, Project, and Role** – UniCredit |Hungary | CORE02 | Business Analyst | 2018-2021
+**About project** – CORE02 is core banking application and General Ledger system (bookkeeping). Worked on different projects like “Exceed project involving Murex FX trade”, KYC project, “Retention end date project”. 
 
-**Your Most Recent Work Experience:**
+**Technology & tools:**
+DB2, IBM MQ, AS400
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+**Contribution:**
+* Gathered requirements and created functional specification document.
+* Coordinated with the development team on technical design and technical specification.
+* Unit and UAT testing. 
 
-* First item
+**Client, Location, Project, and Role** – Morgan Stanley | Hungary | Credit Risk | Business Analyst | 2016-2018
+**About project** – It’s an application to monitor, manage and report exposures at a counterpart, product, and portfolio level. Worked on many projects like “Quarterly and yearly credit risk assessment” and capital, exposure, limits, ratings, loss-given-default (LGD) and RWA related enhancements.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Contribution:**
+* Created different functional specification.
+* Created different high level technical specification.
+* Created system test-plan, test-cases and provided UAT support.
 
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+**Technology & tools:**
+Java 1.8, ExtJS, Web-Services, Sybase, DB2, JIRA
