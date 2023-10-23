@@ -7,7 +7,7 @@ Linkedin - https://www.linkedin.com/in/akumar25/
 Professional Summary 
 ---------
 
-*IT professional with extensive experience in Business Analysis/Test/Java/Cloud/DevOps related technologies.*
+: IT professional with extensive experience in Business Analysis/Test/Java/Cloud/DevOps related technologies.
 *22+ years of experience in designing, developing, maintaining, and documenting software and its processes.*
 *Worked in telecom, banking, and financial areas.*
 *Worked on multiple technologies like Java, cloud, and DevOps.*
