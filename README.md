@@ -1,53 +1,93 @@
-# Example Template
+Johnny Coder
+============
 
-The introduction summarizes the purpose and function of the project, and should be concise (a brief paragraph or two). This introduction may be the same as the first paragraph on the project page.
+-------------------     ----------------------------
+1 MyAddress                        email@example.com
+MyTown 1000                          @twitter_handle
+MyCountry                           1800 my-phone-nr
+-------------------     ----------------------------
 
+Education
+---------
 
-## Table of contents (optional)
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
 
-- Requirements
-- Recommended modules
-- Installation
-- Configuration
-- Troubleshooting
-- FAQ
-- Maintainers
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
 
+2007-2010
+:   **BSc, Computer Science and Electrical Engineering**; University of
+    HomeTown (HomeTown)
 
-## Requirements (required)
+    *Minor: Awesomeology*
 
-This module requires the following modules:
-- [Bad judgement](https://www.drupal.org/project/bad_judgement)
+Experience
+----------
 
-OR
+**Your Most Recent Work Experience:**
 
-This module requires no modules outside of Drupal core.
+Short text containing the type of work done, results obtained,
+lessons learned and other remarks. Can also include lists and
+links:
 
+* First item
 
-## Recommended modules (optional)
+* Item with [link](http://www.example.com). Links will work both in
+  the html and pdf versions.
 
+**That Other Job You Had**
 
-## Installation (required, unless a separate INSTALL.md is provided)
+Also with a short description.
 
-Install as you would normally install a contributed Drupal module. For further information, see [Installing Drupal Modules](https://www.drupal.org/docs/extending-drupal/installing-drupal-modules).
+Technical Experience
+--------------------
 
+My Cool Side Project
+:   For items which don't have a clear time ordering, a definition
+    list can be used to have named items.
 
-## Configuration (required)
+    * These items can also contain lists, but you need to mind the
+      indentation levels in the markdown source.
+    * Second item.
 
-1. Enable the module at Administration > Extend.
-1. Profit.
+Open Source
+:   List open source contributions here, perhaps placing emphasis on
+    the project names, for example the **Linux Kernel**, where you
+    implemented multithreading over a long weekend, or **node.js**
+    (with [link](http://nodejs.org)) which was actually totally
+    your idea...
 
+Programming Languages
+:   **first-lang:** Here, we have an itemization, where we only want
+    to add descriptions to the first few items, but still want to
+    mention some others together at the end. A format that works well
+    here is a description list where the first few items have their
+    first word emphasized, and the last item contains the final few
+    emphasized terms. Notice the reasonably nice page break in the pdf
+    version, which wouldn't happen if we generated the pdf via html.
 
-## Troubleshooting (optional)
+:   **second-lang:** Description of your experience with second-lang,
+    perhaps again including a [link] [ref], this time placing the url
+    reference elsewhere in the document to reduce clutter (see source
+    file). 
 
+:   **obscure-but-impressive-lang:** We both know this one's pushing
+    it.
 
-## FAQ (optional)
+:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
-**Q: How do I write a module README?**
+[ref]: https://github.com/githubuser/superlongprojectname
 
-**A:** Follow this template. It's fun and easy!
+Extra Section, Call it Whatever You Want
+----------------------------------------
 
+* Human Languages:
 
-## Maintainers (optional)
+     * English (native speaker)
+     * ???
+     * This is what a nested list looks like.
 
-- Dries Buytaert - [dries](https://www.drupal.org/u/dries)
+* Random tidbit
+
+* Other sort of impressive-sounding thing you did
