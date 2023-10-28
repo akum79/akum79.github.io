@@ -22,18 +22,18 @@ Techno-Functional
 
 Technical Skills 
 ---------
-Java | Groovy | REST | SOAP | Spring
-Python | Flask | Django | NumPy
-Selenium | QTP | Junit | TestNG | Mockito | Postman
-SQL | Data modelling | Oracle | Sybase | MySQL | DB2 | PostgreSQL
-JBOSS | Tomcat | WebSphere | WebLogic
-IBM MQ | ActiveMQ | TIBCO | Kafka | RabbitMQ
-Ant | Maven | Gradle | Bazel
-Jenkin | Artifactory | Gerrit | Git | GitLab | SVN | Jira | Confluence | Wiki
-Docker | Kubernetes | Helm | Lens 
-AWS | Azure | GCP | OpenStack
-Bash | Terraform | Ansible | Prometheus | FluxCD | ELK
-DevOps | DevSecOps | GitOps | Infrastructure-As-Code | CI/CD
+Java | Groovy | REST | SOAP | Spring  
+Python | Flask | Django | NumPy  
+Selenium | QTP | Junit | TestNG | Mockito | Postman  
+SQL | Data modelling | Oracle | Sybase | MySQL | DB2 | PostgreSQL  
+JBOSS | Tomcat | WebSphere | WebLogic  
+IBM MQ | ActiveMQ | TIBCO | Kafka | RabbitMQ  
+Ant | Maven | Gradle | Bazel  
+Jenkin | Artifactory | Gerrit | Git | GitLab | SVN | Jira | Confluence | Wiki  
+Docker | Kubernetes | Helm | Lens   
+AWS | Azure | GCP | OpenStack  
+Bash | Terraform | Ansible | Prometheus | FluxCD | ELK  
+DevOps | DevSecOps | GitOps | Infrastructure-As-Code | CI/CD  
 
 
 Qualification and Certificates 
