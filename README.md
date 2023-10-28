@@ -50,16 +50,18 @@ Microsoft Certified: Azure Data Fundamentals: Certification number - I528-7658
 Ericsson | HUNGARY | From 05/2021 to till Date.**
 </th></tr>
 <tr><td>
-**Project name and Role** – EO-CM/EO-cCM | Senior Tester/Test automation developer
-EO-CM manages hybrid infrastructure (mainly OpenStack, AWS, Azure based VMs). It also manages telecom software deployment (i.e. different kinds of network functions) on hybrid infrastructure. In other words, EO-CM tool manages machines (physical or Virtual) and manages software deployed on those machines
+   
+**Project name and Role** – EO-CM/EO-cCM | Senior Tester/Test automation developer  
+EO-CM manages hybrid infrastructure (mainly OpenStack, AWS, Azure based VMs). It also manages telecom software deployment (i.e. different kinds of network functions) on hybrid infrastructure. In other words, EO-CM tool manages machines (physical or Virtual) and manages software deployed on those machines  
 
-**Contribution**
-* Complete QA life cycle management - planning and execution of functional, non-functional tests.
-* Test strategy, test plan and testcase creation, implementation, and execution.
-* Validate the IT functional designs and business requirements for in-scope release components.
+**Contribution**  
+* Complete QA life cycle management - planning and execution of functional, non-functional tests.  
+* Test strategy, test plan and testcase creation, implementation, and execution.  
+* Validate the IT functional designs and business requirements for in-scope release components.  
 
 **Technology & tools used in this project:**
 Java, PostgreSQL, AWS, Azure, Docker, Kubernetes, Helm, Python, Groovy
+
 </td></tr></table>
 
 **Work Experience  
