@@ -2,78 +2,65 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        @keyframes hi  {
-            0% { transform: rotate( 0.0deg) }
-           10% { transform: rotate(14.0deg) }
-           20% { transform: rotate(-8.0deg) }
-           30% { transform: rotate(14.0deg) }
-           40% { transform: rotate(-4.0deg) }
-           50% { transform: rotate(10.0deg) }
-           60% { transform: rotate( 0.0deg) }
-          100% { transform: rotate( 0.0deg) }
-        }
+       
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
 
-        @keyframes gradient {
-          0% {
-            background-position: 0% 50%;
-          }
-          50% {
-            background-position: 100% 50%;
-          }
-          100% {
-            background-position: 0% 50%;
-          }
-        }
+        .styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+        .styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+        .styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
 
-        .container {
-          --color-main: #5452ee;
-          --color-primary: #e73c7e;
-          --color-secondary: #23a6d5;
-          --color-tertiary: #ffff;
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
 
-          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
-          background-size: 400% 400%;
-          animation: gradient 15s ease infinite;
-
-          width: 100%;
-          height: 300px;
-
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          color: white;
-
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-        }
-
-        .hi {
-          animation: hi 1.5s linear -0.5s infinite;
-          display: inline-block;
-          transform-origin: 70% 70%;
-        }
-
-        @media (prefers-color-scheme: light) {
-          .container {
-            --color-main: #F15BB5;
-            --color-primary: #24b0ef;
-            --color-secondary: #4526f6;
-            --color-tertiary: #f6f645;
-          }
-        }
-
-        @media (prefers-reduced-motion) {
-          .container {
-            animation: none;
-          }
-
-          .hi {
-            animation: none;
-          }
-        }
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+        .styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+        
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+
+<table><tr><th>
+   
+**Work Experience  
+Ericsson | HUNGARY | From 05/2021 to till Date.**
+</th></tr>
+<tr><td>
+  
+**Project name and Role** – EO-CM/EO-cCM | Senior Tester/Test automation developer
+EO-CM manages hybrid infrastructure (mainly OpenStack, AWS, Azure based VMs). It also manages telecom software deployment (i.e. different kinds of network functions) on hybrid infrastructure. In other words, EO-CM tool manages machines (physical or Virtual) and manages software deployed on those machines
+
+**Contribution**
+* Complete QA life cycle management - planning and execution of functional, non-functional tests.
+* Test strategy, test plan and testcase creation, implementation, and execution.
+* Validate the IT functional designs and business requirements for in-scope release components.
+
+**Technology & tools used in this project:**
+Java, PostgreSQL, AWS, Azure, Docker, Kubernetes, Helm, Python, Groovy
+</td></tr></table>
+
+        
       </div>
     </div>
   </foreignObject>
