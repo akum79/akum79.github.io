@@ -31,7 +31,7 @@ EO-CM manages hybrid infrastructure (mainly OpenStack, AWS, Azure based VMs). It
 * Test strategy, test plan and testcase creation, implementation, and execution.
 * Validate the IT functional designs and business requirements for in-scope release components.
 
-**Technology & tools used in this project:**
+**Technology and tools used in this project:**
 Java, PostgreSQL, AWS, Azure, Docker, Kubernetes, Helm, Python, Groovy
 </td></tr></table>
         
