@@ -1,5 +1,4 @@
-<html>
-<body>
+
 <p align="center">
    Abhishek Kumar <br> 
    akum79@gmail.com | +36-300829915   <br> 
@@ -183,6 +182,3 @@ Java/J2ee, JSP, Struts, MS SQL, Tomcat
 **Contribution:**
 * Enhancement and maintenance of LTC, Leave, Training software
 * UI for Employee Leave Maintenance and various reports based on it. 
-
-</body>
-</html>
