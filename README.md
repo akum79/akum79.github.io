@@ -1,17 +1,5 @@
 <html>
-<head>
-</head>
-   <meta>
-     <style>
-
-table, th, td {
-  border: 10px solid;
-}
-
-   
-</meta>
 <body>
-
 <p align="center">
    Abhishek Kumar <br> 
    akum79@gmail.com | +36-300829915   <br> 
