@@ -13,9 +13,11 @@
         }
       </style>
 
-      <div class="container">
+      <div>
 
 
+<table><tr><th>
+   
 <table><tr><th>
    
 **Work Experience  
@@ -32,6 +34,7 @@ EO-CM manages hybrid infrastructure (mainly OpenStack, AWS, Azure based VMs). It
 
 **Technology & tools used in this project:**
 Java, PostgreSQL, AWS, Azure, Docker, Kubernetes, Helm, Python, Groovy
+</td></tr></table>
 </td></tr></table>
         
       </div>
