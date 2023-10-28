@@ -1,3 +1,11 @@
+<html>
+<head>
+</head>
+   <meta>
+   <link href="a.css" rel="stylesheet" />
+</meta>
+<body>
+
 <p align="center">
    Abhishek Kumar <br> 
    akum79@gmail.com | +36-300829915   <br> 
@@ -21,18 +29,19 @@ Techno-Functional
 
 Technical Skills 
 ---------
-Java | Groovy | REST | SOAP | Spring  
-Python | Flask | Django | NumPy  
-Selenium | QTP | Junit | TestNG | Mockito  
-SQL | Data modelling | Oracle | Sybase | MySQL | DB2 | PostgreSQL  
-JBOSS | Tomcat | WebSphere | WebLogic  
-IBM MQ | ActiveMQ | TIBCO | Kafka  
-Ant | Maven | Gradle | Bazel  
-Jenkin | Artifactory | Gerrit | Git | GitLab | SVN | Jira | Confluence | Wiki  
-Docker | Kubernetes | Helm | Lens   
-AWS | Azure | GCP | OpenStack  
-Bash | Terraform | Ansible | Prometheus | FluxCD | ELK  
-DevOps | DevSecOps | GitOps | Infrastructure-As-Code  
+Java | Groovy | REST | SOAP | Spring
+Python | Flask | Django | NumPy
+Selenium | QTP | Junit | TestNG | Mockito | Postman
+SQL | Data modelling | Oracle | Sybase | MySQL | DB2 | PostgreSQL
+JBOSS | Tomcat | WebSphere | WebLogic
+IBM MQ | ActiveMQ | TIBCO | Kafka | RabbitMQ
+Ant | Maven | Gradle | Bazel
+Jenkin | Artifactory | Gerrit | Git | GitLab | SVN | Jira | Confluence | Wiki
+Docker | Kubernetes | Helm | Lens 
+AWS | Azure | GCP | OpenStack
+Bash | Terraform | Ansible | Prometheus | FluxCD | ELK
+DevOps | DevSecOps | GitOps | Infrastructure-As-Code | CI/CD
+
 
 Qualification and Certificates 
 ---------
@@ -42,10 +51,12 @@ Kubernetes troubleshooting: Certificate URL
 Microsoft Certified: Azure Fundamentals: Certification number - I505-8473  
 Microsoft Certified: Azure Data Fundamentals: Certification number - I528-7658  
 
-
+<table><tr  background-color: #D6EEEE;><th>
+   
 **Work Experience  
 Ericsson | HUNGARY | From 05/2021 to till Date.**
-
+</th></tr>
+<tr><td>
 **Project name and Role** – EO-CM/EO-cCM | Senior Tester/Test automation developer
 EO-CM manages hybrid infrastructure (mainly OpenStack, AWS, Azure based VMs). It also manages telecom software deployment (i.e. different kinds of network functions) on hybrid infrastructure. In other words, EO-CM tool manages machines (physical or Virtual) and manages software deployed on those machines
 
@@ -56,9 +67,12 @@ EO-CM manages hybrid infrastructure (mainly OpenStack, AWS, Azure based VMs). It
 
 **Technology & tools used in this project:**
 Java, PostgreSQL, AWS, Azure, Docker, Kubernetes, Helm, Python, Groovy
+</td></tr></table>
 
 **Work Experience  
 TCS | EUROPE | From 05/2010 to 05/2021**
+
+<table><tr><td>
 
 **Client, Location, Project, and Role** – UniCredit |Hungary | CORE02 | Business Analyst | 2018-2021
 **About project** – CORE02 is core banking application and General Ledger system (bookkeeping). Worked on different projects like “Exceed project involving Murex FX trade”, KYC project, “Retention end date project”. 
@@ -70,6 +84,7 @@ DB2, IBM MQ, AS400
 * Gathered requirements and created functional specification document.
 * Coordinated with the development team on technical design and technical specification.
 * Unit and UAT testing. 
+
 
 **Client, Location, Project, and Role** – Morgan Stanley | Hungary | Credit Risk | Business Analyst | 2016-2018
 **About project** – It’s an application to monitor, manage and report exposures at a counterpart, product, and portfolio level. Worked on many projects like “Quarterly and yearly credit risk assessment” and capital, exposure, limits, ratings, loss-given-default (LGD) and RWA related enhancements.
@@ -104,6 +119,9 @@ Java 1.6, Unix, Sybase, UC4
 * During Summit upgrade project, worked on various interfaces like Calypso, Dealbus, Kondor, MarketView and MarkitWire, which interact with upstream and store data in the Summit system.
 * Changes done in downstream interfaces, which produce xml from summit and sends to downstream systems like Swift interface, DWH.
 * During Summit maintenance project, worked on EOD support, reconciliation of cash-flow, NPV and accrual.
+
+</td></tr></table>
+<table><tr><td>
  
 **Client, Project, Role, Duration** – RMB | Calypso | Senior Developer| From 10/2007 to 02/2010
 
@@ -116,7 +134,9 @@ Java 1.6, Unix, Oracle, Tibco
 * During Calypso upgrade project, regression tested all upstream and downstream interface systems. Also worked on posting reconciliation between both versions of software.
 * During Calypso FX project, developed various custom modules for FX Spot/Forward/ Swap. Also worked on different user reports like Brokerage, Brokerage Fee, Event and Event Processor.
 
- 
+</td></tr></table>
+ <table><tr><td>
+    
 **Client, Project, Role, Duration** - UBS | Depository/Custodian application| Developer | 10/2006 TO 10/2007
 
 **About project:** It is an application to manage securities settlement, position keeping and corporate action. It has modules related to account maintenance, transaction settlement, dividend and entitlement processing.
@@ -138,6 +158,8 @@ Java/J2EE, Struts, Eclipse, Sybase, IBM MQ, WAS
 **Contribution:**
 * Developed module called iSSi, which connects to the upstream system via MQ queue and consumes swift messages. Further based on type of swift message, it does aggregation (based on currency and customer) and sends aggregated messages to Swift application.
 
+</td></tr></table>
+<table><tr><td>
  
 **Payroll –Syntel Client – Unitrin Kemper, Java Developer- 10/2004 to 09/2005**
 
@@ -151,6 +173,8 @@ Java/J2EE, Struts, DB2, IBM MQ, WebSphere
 * Conversion of Mainframe User Interface (UI) into JSP based UI
 * UI enhancement and performance improvement with Struts implementation
  
+</td></tr></table>
+<table><tr><td>
 
 **Payroll –DRDO, Client – DRDO, Work Location: India, Java Developer- 07/2001 to 10/2004**
 
@@ -160,7 +184,11 @@ It’s a front-to-back application to maintain leave travel allowance (LTC), hol
 **Technology & tools used:**
 Java/J2ee, JSP, Struts, MS SQL, Tomcat
 
+</td></tr></table>
+
 **Contribution:**
 * Enhancement and maintenance of LTC, Leave, Training software
 * UI for Employee Leave Maintenance and various reports based on it. 
 
+</body>
+</html>
