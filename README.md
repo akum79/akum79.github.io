@@ -44,14 +44,14 @@ Kubernetes troubleshooting: Certificate URL
 Microsoft Certified: Azure Fundamentals: Certification number - I505-8473  
 Microsoft Certified: Azure Data Fundamentals: Certification number - I528-7658  
 
-<table><tr><th>
+
    
 **Work Experience  
 Ericsson | HUNGARY | From 05/2021 to till Date.**
-</th></tr>
-<tr><td>
-   
-**Project name and Role** – EO-CM/EO-cCM | Senior Tester/Test automation developer  
+
+<table><tr><td>
+
+   **Project name and Role** – EO-CM/EO-cCM | Senior Tester/Test automation developer  
 EO-CM manages hybrid infrastructure (mainly OpenStack, AWS, Azure based VMs). It also manages telecom software deployment (i.e. different kinds of network functions) on hybrid infrastructure. In other words, EO-CM tool manages machines (physical or Virtual) and manages software deployed on those machines  
 
 **Contribution**  
