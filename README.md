@@ -47,7 +47,7 @@ Microsoft Certified: Azure Data Fundamentals: Certification number - I528-7658
 
    
 **Work Experience  
-Ericsson | HUNGARY | From 05/2021 to till Date.**
+Ericsson | HUNGARY | From 05/2021 to till Date.**  
 ---------
 
 
