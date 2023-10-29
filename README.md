@@ -48,7 +48,7 @@ Microsoft Certified: Azure Data Fundamentals: Certification number - I528-7658
    
 **Work Experience  
 Ericsson | HUNGARY | From 05/2021 to till Date.**
-
+---------
 
 
    **Project name and Role** – EO-CM/EO-cCM | Senior Tester/Test automation developer  
@@ -65,6 +65,7 @@ Java, PostgreSQL, AWS, Azure, Docker, Kubernetes, Helm, Python, Groovy
 
 **Work Experience  
 TCS | EUROPE | From 05/2010 to 05/2021**
+---------
 
 **Client, Location, Project, and Role** – UniCredit |Hungary | CORE02 | Business Analyst | 2018-2021
 **About project** – CORE02 is core banking application and General Ledger system (bookkeeping). Worked on different projects like “Exceed project involving Murex FX trade”, KYC project, “Retention end date project”. 
@@ -102,6 +103,7 @@ Java, Oracle, PL/SQL, UC4
 
  
 **Client, Project, Role, and Location** – CommerzBank | Summit | Developer | Germany | 2010-2014
+--------------
 **About project** – It is a front-to-back application for OTC trades (mainly FX and MM) of the bank. Summit system is used to manage different trades, rates, and postings.  
 
 **Technology & tools used:**
