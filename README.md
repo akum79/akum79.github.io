@@ -61,9 +61,9 @@ EO-CM manages hybrid infrastructure (mainly OpenStack, AWS, Azure based VMs). It
 Java, PostgreSQL, AWS, Azure, Docker, Kubernetes, Helm, Python, Groovy
 
 
-**Work Experience  
-TCS | EUROPE | From 05/2010 to 05/2021**
----------
+## Work Experience  
+### TCS | EUROPE | From 05/2010 to 05/2021
+
 
 **Client, Location, Project, and Role** – UniCredit |Hungary | CORE02 | Business Analyst | 2018-2021
 **About project** – CORE02 is core banking application and General Ledger system (bookkeeping). Worked on different projects like “Exceed project involving Murex FX trade”, KYC project, “Retention end date project”. 
