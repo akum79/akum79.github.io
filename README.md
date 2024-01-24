@@ -1,9 +1,8 @@
 
-<p align="center">
-   Abhishek Kumar <br> 
+   <h1 align="center">Abhishek Kumar <br> 
    akum79@gmail.com | +36-300829915   <br> 
    Linkedin - https://www.linkedin.com/in/akumar25/
-</p>
+      </h1>
 
 Professional Summary 
 ---------
